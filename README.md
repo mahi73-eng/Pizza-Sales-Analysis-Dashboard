@@ -1,2 +1,3 @@
-# Pizza-Sales-Analysis-Dashboard
-Sales analysis of a pizza restaurant using SQL and Power BI to track KPIs and trends.
+## 📄 Project Report
+📘 Detailed documentation:  
+➡️ [View Project Report](Report/README.md)
