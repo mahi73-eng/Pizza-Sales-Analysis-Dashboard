@@ -21,9 +21,11 @@ One full year of transactional order data — Order Details ID, Order ID, Pizza 
 
 ---
 
-📄 Project Files
+### 📄 Project Files
 
-📋 Detailed documentation: View Project Report 🗄 SQL Queries: Sql query 📊 Power BI DAX: View DAX File  |  📁 Download the .pbix file
+📋 **Detailed documentation:** [View Project Report](https://github.com/monalisa-analytics/Pizza-Sales-Analysis-Dashboard/blob/main/Report/README.md)
+🗄 **SQL Queries:** [Sql query](https://github.com/monalisa-analytics/Pizza-Sales-Analysis-Dashboard/blob/main/SQL/SQL_Query.SQL)
+📊 **Power BI DAX:** [View DAX File](https://github.com/monalisa-analytics/Pizza-Sales-Analysis-Dashboard/blob/main/PowerBI/Dax_Formula) &nbsp;|&nbsp; 📁 [Download the .pbix file](https://github.com/monalisa-analytics/Pizza-Sales-Analysis-Dashboard/raw/main/PowerBI/pizza%20sales%20power%20bi%20dashboard%20%282%29.pbix)
 
 
 
