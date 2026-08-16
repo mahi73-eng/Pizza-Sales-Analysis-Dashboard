@@ -21,11 +21,9 @@ One full year of transactional order data — Order Details ID, Order ID, Pizza 
 
 ---
 
-### 📄 Project Files
+📄 Project Files
 
-📋 **Detailed documentation:** [View Project Report](#)
-🗄 **SQL Queries:** [Sql query](#)
-📊 **Power BI DAX:** [View DAX File](#) &nbsp;|&nbsp; 📁 [Download the .pbix file](#)
+📋 Detailed documentation: View Project Report 🗄 SQL Queries: Sql query 📊 Power BI DAX: View DAX File  |  📁 Download the .pbix file
 
 
 
